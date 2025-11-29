@@ -1,0 +1,10 @@
+{
+	"id": "alight",
+	"name": "Alight",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "专为三星S-Pen设计的快速高亮悬浮球。点击开启颜色盘，选中文字后自动应用高亮。",
+	"author": "Gemini User",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
